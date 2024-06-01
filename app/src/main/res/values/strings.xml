@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Unit_Converter</string>
+    <string name="unit_converter_app">Unit Converter App</string>
+    <string name="enter_the_value_below">Enter the value below:</string>
+    <string name="value_in_kilometer">Value in Kilometer</string>
+    <string name="convert">Convert</string>
+    <string name="value_in_pounds">Value in </string>
+<!--    <string name="value_in_grams">Value in Grams</string>-->
+
+
+    <string-array name="units_array">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Millimeters</item>
+        <item>Nanometers</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+    </string-array>
+</resources>
